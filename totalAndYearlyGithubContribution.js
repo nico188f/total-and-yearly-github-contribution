@@ -10,7 +10,7 @@ const endYear = new Date().getFullYear() + 1;
 
 const queryParameters = [
    "totalCommitContributions",
-   // "totalIssueContributions",
+   "totalIssueContributions",
    "totalPullRequestContributions",
    "totalPullRequestReviewContributions",
 ];
